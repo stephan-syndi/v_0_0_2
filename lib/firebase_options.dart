@@ -53,11 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyByZ5P-SBKR-hNx_kWddqTB7g7VJ2cpDfM',
-    appId: '1:559446481847:ios:579e74b7a471be90abe632',
-    messagingSenderId: '559446481847',
-    projectId: 'daily-egg-683f5',
-    storageBucket: 'daily-egg-683f5.firebasestorage.app',
+    apiKey: 'AIzaSyAMufdwzv_n6SNzCrnknPYO_6G7I-BKDwI',
+    appId: '1:331312060534:ios:70e17801b58c2c57ab2757',
+    messagingSenderId: '331312060534',
+    projectId: 'sorting-the-elixir',
+    storageBucket: 'sorting-the-elixir.firebasestorage.app',
     iosBundleId: 'com.mixmagic.sortingtheelixir',
   );
 
