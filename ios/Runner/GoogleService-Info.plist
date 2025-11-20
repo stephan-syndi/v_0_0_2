@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAMufdwzv_n6SNzCrnknPYO_6G7I-BKDwI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>331312060534</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mixmagic.sortingtheelixir</string>
+	<key>PROJECT_ID</key>
+	<string>sorting-the-elixir</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sorting-the-elixir.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:331312060534:ios:70e17801b58c2c57ab2757</string>
+</dict>
+</plist>
