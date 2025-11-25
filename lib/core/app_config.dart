@@ -16,7 +16,7 @@ class AppConfig {
   static const Decoration splashDecoration = const BoxDecoration(
     image: DecorationImage(
       image: AssetImage('assets/images/back-1.png'),
-      fit: BoxFit.fitHeight,
+      fit: BoxFit.cover,
       alignment: Alignment.center
     ),    
     gradient: AppConfig.splashGradient,
@@ -37,7 +37,7 @@ class AppConfig {
   static const Decoration pushRequestDecoration = const BoxDecoration(
     image: DecorationImage(
       image: AssetImage('assets/images/back-2.png'),
-      fit: BoxFit.fitHeight,
+      fit: BoxFit.cover,
       alignment: Alignment.center
     ),
     gradient: AppConfig.pushRequestFadeGradient,
@@ -75,7 +75,7 @@ class AppConfig {
   static const Decoration errorScreenDecoration = const BoxDecoration(
     image: DecorationImage(
       image: AssetImage('assets/images/back-1.png'),
-      fit: BoxFit.fitHeight,
+      fit: BoxFit.cover,
       alignment: Alignment.center
     ),
     gradient: AppConfig.errorScreenGradient,
@@ -99,7 +99,7 @@ class AppConfig {
   static const Decoration webGLLoadingDecoration = const BoxDecoration(
     image: DecorationImage(
       image: AssetImage('assets/images/back-1.png'),
-      fit: BoxFit.fitHeight,
+      fit: BoxFit.cover,
       alignment: Alignment.center
     ),
     gradient: AppConfig.splashGradient,
